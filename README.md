@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">An aspiring web-developer from UK</h3>
-
-<p align="center">  <b>💬 Ask me about</b> </p>
+<p align="center"><b>An aspiring web-developer from UK.</b> Just doing his thing. </p>
 
 <p align="center">I <b>MAINLY</b> work with</p>
 <p align="center">
@@ -13,7 +11,7 @@
 <p align="center">I <b>STYLE</b> with</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,sass,materialui" />
   </a>
 </p>
 
@@ -37,20 +35,3 @@
     <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs" />
   </a>
 </p>
-
-## 📅 Hobbies
-- Solve programming problems.
-- Watch F1 & then go GoKarting.
-- Read some books
-- Play videogames
-- etc...
-
-## 💻 Current projects
-- Booking System
-
-## 📚 Learning
-- React.js
-- Node.js
-- Next.js
-- TypeScript
-- Supabase
