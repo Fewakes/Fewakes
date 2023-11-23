@@ -1,9 +1,42 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">An aspiring web-developer from UK</h3>
 
-## 💬 Ask me about
-- Frontend web development (JavaScript, TypeScript, React.js)
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">  <b>💬 Ask me about</b> </p>
+
+<p align="center">I <b>MAINLY</b> work with</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,redux" />
+  </a>
+</p>
+
+<p align="center">I <b>STYLE</b> with</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,sass" />
+  </a>
+</p>
+
+<p align="center">I <b>UTILISE</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,git,github,stackoverflow" />
+  </a>
+</p>
+
+<p align="center">I <b>HOST</b> on</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+</p>
+
+<p align="center">I'm <b>STUDYING</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs" />
+  </a>
+</p>
 
 ## 📅 Hobbies
 - Solve programming problems.
