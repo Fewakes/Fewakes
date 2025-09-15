@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<p align="center"><b>An aspiring web-developer from UK/POLAND.</b> Just doing his thing. </p>
+<p align="center"><b>An aspiring web-developer </b> Just doing his thing. </p>
 
 <p align="center">I <b>MAINLY</b> work with</p>
 <p align="center">
